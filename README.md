@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://c.tenor.com/NoxWr8mFz1sAAAAd/itachi-uchiha.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/5a/60/f5/5a60f582e69ac6a4ed7440a4c6f663f4.gif"  />
 
 ###
 
@@ -45,12 +45,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<br clear="both">
+
+<img align="left" height="200" src="https://64.media.tumblr.com/60d426bc3b6d3611dcd394cbef5bd63f/9474c347d855b514-19/s1280x1920/237cf81d4a8c61d65797fe422aa0d4b0bf7382c4.gifv"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Satyamkan10/Satyamkan10/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  />
+</div>
 
 ###
