@@ -51,8 +51,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  />
-</div>
+<img align="right" height="200" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif"  />
 
 ###
