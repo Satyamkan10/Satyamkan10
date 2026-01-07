@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Kannojia</h1>
-<h3 align="center">A passionate React.Js developer from India</h3>
+<h3 align="center">A passionate DevOps Engg. from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamkan10&label=Profile%20views&color=0e75b6&style=flat" alt="satyamkan10" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently working as Associate DevOps Engg.
 
 - 👨‍💻 All of my projects are available at [https://satyamkan10.github.io/myportfolio/](https://satyamkan10.github.io/myportfolio/)
 
